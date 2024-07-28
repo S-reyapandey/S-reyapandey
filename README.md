@@ -1,4 +1,4 @@
-# Hi there, I'm S-reyapandey 👋
+# Hello, I'm Shreya Pandey 👋
 
 ## 💫 About Me
 I'm an enthusiastic software developer currently in my final year of studies, with a strong foundation in programming, data structures, and algorithms. I'm eager to dive deep into the world of technology and committed to applying my web development expertise and problem-solving abilities to create cutting-edge technology solutions within a dynamic team<br>
