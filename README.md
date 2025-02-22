@@ -13,8 +13,7 @@
 - ⚡ Always eager to learn new technologies
 
 ### 🛠️ Tech Stack:
-<details>
-  <summary>🛠️ Tech Stack</summary>
+<div>
   
   <h3>Frontend</h3>
   
@@ -30,7 +29,7 @@
   ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-</details>
+</div>
 
 ### 📊 GitHub Stats:
 <div align="center">
