@@ -47,15 +47,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=S-reyapandey&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </div>
 
-### 🤝 Connect With Me:
-<div align="center">
-  <a href="https://linkedin.com/in/shreya-pandey-31a306233">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-khaki-eight-61.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=orange"/>
-  </a>
-  <a href="mailto:shreyaamt02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
