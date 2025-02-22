@@ -9,7 +9,7 @@
 ### 👩‍💻 About Me:
 - 🎓 Final year Civil Engineering student at MNIT
 - 💻 Passionate about Web Development
-- 🌱 Currently exploring System Design
+- 🌱 Currently exploring Machine Learning
 - ⚡ Always eager to learn new technologies
 
 ### 🛠️ Tech Stack:
