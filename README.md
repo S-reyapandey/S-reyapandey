@@ -4,7 +4,7 @@
 I'm an enthusiastic software developer currently in my final year of studies, with a strong foundation in programming, data structures, and algorithms. I'm eager to dive deep into the world of technology and committed to applying my web development expertise and problem-solving abilities to create cutting-edge technology solutions within a dynamic team<br>
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://portfolio-khaki-eight-61.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-pandey-31a306233)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?logoColor=white)](https://portfolio-khaki-eight-61.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-pandey-31a306233)
 
 
 # 💻 Tech Stack:
